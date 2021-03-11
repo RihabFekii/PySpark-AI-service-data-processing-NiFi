@@ -1,0 +1,5775 @@
+{
+    "users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }{
+    "users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }{
+    "users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }{
+    "users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }{
+    "users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }{
+    "users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }{
+    "users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }{
+    "users": 
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+    "users":
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+    "users":  
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      }
+  }{
+    "Users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }{
+    "Users": [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      }
+    ]
+  }
+{"userId": 1,
+"firstName": "Krish",
+"lastName": "Lee",
+"phoneNumber": "123456",
+"emailAddress": "krish.lee@learningcontainer.com"
+}
+
+{"creation_Date": "2018-08-19", "Hour_of_day": 7, "log_count": 2136}
+{"creation_Date": "2018-08-19", "Hour_of_day": 7, "log_count": 2136}
+{"creation_Date": "2018-08-19", "Hour_of_day": 7, "log_count": 2136}
+{"creation_Date": "2018-08-19", "Hour_of_day": 7, "log_count": 2136}
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbachfirst_name, last_name
+rihab, feki
+Felix , Deckenbach[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbachfirst_name, last_name
+rihab, feki
+Felix , Deckenbachfirst_name, last_name
+rihab, feki
+Felix , Deckenbachfirst_name, last_name
+rihab, feki
+Felix , Deckenbachfirst_name, last_name
+rihab, feki
+Felix , Deckenbach[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbachfirst_name, last_name
+rihab, feki
+Felix , Deckenbachfirst_name, last_name
+rihab, feki
+Felix , Deckenbach[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}][{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}][{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}]first_name, last_name
+rihab, feki
+Felix , Deckenbach
+
+[{"first_name":"rihab","last_name":"feki"},{"first_name":"Felix","last_name":"Deckenbach"}][ {
+  "first_name" : "rihab",
+  "last_name" : "feki"
+}, {
+  "first_name" : "Felix",
+  "last_name" : "Deckenbach"
+} ]
+
+[ {
+  "first_name" : "rihab",
+  "last_name" : "feki"
+}, {
+  "first_name" : "Felix",
+  "last_name" : "Deckenbach"
+} ]
+
+[ {
+  "first_name" : "rihab",
+  "last_name" : "feki"
+}, {
+  "first_name" : "Felix",
+  "last_name" : "Deckenbach"
+} ]
+
+first_name,last_name
+rihab,feki
+Felix,Deckenbach
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+first_name,last_name
+Chris,Miyak
+John,Perry
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+[ {
+  "first_name" : "Chris",
+  "last_name" : "Miyak"
+}, {
+  "first_name" : "John",
+  "last_name" : "Perry"
+} ]
+
+{
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "refDevice": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Device:device-0A3478"
+    },
+    "source": {
+        "type": "Property",
+        "value": "http://www.aemet.es"
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "type": "Point",
+            "coordinates": [
+                -4.754444444,
+                41.640833333
+            ]
+        }
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "address": {
+        "type": "Property",
+        "value": {
+            "addressLocality": "Valladolid",
+            "addressCountry": "ES",
+            "type": "PostalAddress"
+        }
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    },
+    "@context": [
+        "https://schema.lab.fiware.org/ld/context",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+}{
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "refDevice": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Device:device-0A3478"
+    },
+    "source": {
+        "type": "Property",
+        "value": "http://www.aemet.es"
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "type": "Point",
+            "coordinates": [
+                -4.754444444,
+                41.640833333
+            ]
+        }
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "address": {
+        "type": "Property",
+        "value": {
+            "addressLocality": "Valladolid",
+            "addressCountry": "ES",
+            "type": "PostalAddress"
+        }
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    },
+    "@context": [
+        "https://schema.lab.fiware.org/ld/context",
+        "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+}{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}illuminance,temperature,precipitation,atmosphericPressure,pressureTendency
+"MapRecord[{type=Property, value=1000}]","MapRecord[{type=Property, value=3.3}]","MapRecord[{type=Property, value=0}]","MapRecord[{type=Property, value=938.9}]","MapRecord[{type=Property, value=0.5}]"
+{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}illuminance,temperature,precipitation,atmosphericPressure,pressureTendency
+"MapRecord[{type=Property, value=1000}]","MapRecord[{type=Property, value=3.3}]","MapRecord[{type=Property, value=0}]","MapRecord[{type=Property, value=938.9}]","MapRecord[{type=Property, value=0.5}]"
+{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}illuminance,temperature,precipitation,atmosphericPressure,pressureTendency
+"MapRecord[{type=Property, value=1000}]","MapRecord[{type=Property, value=3.3}]","MapRecord[{type=Property, value=0}]","MapRecord[{type=Property, value=938.9}]","MapRecord[{type=Property, value=0.5}]"
+{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "id": "urn:ngsi-ld:WeatherObserved",
+    "type": "WeatherObserved",
+    "dateObserved": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2016-11-30T07:00:00.00Z"
+        }
+    },
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    },
+    "atmosphericPressure": {
+        "type": "Property",
+        "value": 938.9
+    },
+    "pressureTendency": {
+        "type": "Property",
+        "value": 0.5
+    },
+    "windSpeed": {
+        "type": "Property",
+        "value": 2
+    },
+    "stationName": {
+        "type": "Property",
+        "value": "Valladolid"
+    },
+    "stationCode": {
+        "type": "Property",
+        "value": "2422"
+    },
+    "dataProvider": {
+        "type": "Property",
+        "value": "TEF"
+    },
+    "windDirection": {
+        "type": "Property",
+        "value": -45
+    },
+    "relativeHumidity": {
+        "type": "Property",
+        "value": 1
+    },
+    "streamGauge": {
+        "type": "Property",
+        "value": 50
+    },
+    "snowHeight": {
+        "type": "Property",
+        "value": 20
+    }
+}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    }
+}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    }
+}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    }
+}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    }
+}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    }
+}{"illuminance":1000,"temperature":3.3,"precipitation":0}{
+    "illuminance": {
+        "type": "Property",
+        "value": 1000
+    },
+    "temperature": {
+        "type": "Property",
+        "value": 3.3
+    },
+    "precipitation": {
+        "type": "Property",
+        "value": 0
+    }
+}{"illuminance":1000,"temperature":3.3,"precipitation":0}{
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+    "type": "WeatherObserved",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2016-11-30T07:00:00.00Z"
+      }
+    },
+    "illuminance": {
+      "type": "Property",
+      "value": 1000
+    },
+    "temperature": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "precipitation": {
+      "type": "Property",
+      "value": 0
+    },
+    "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+    },
+    "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+    },
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+    },
+    "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+    },
+    "windSpeed": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -4.754444444,
+          41.640833333
+        ]
+      }
+    },
+    "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+    },
+    "address": {
+      "type": "Property",
+      "value": {
+        "addressLocality": "Valladolid",
+        "addressCountry": "ES",
+        "type": "PostalAddress"
+      }
+    },
+    "stationCode": {
+      "type": "Property",
+      "value": "2422"
+    },
+    "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+    },
+    "windDirection": {
+      "type": "Property",
+      "value": -45
+    },
+    "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+    },
+    "streamGauge": {
+      "type": "Property",
+      "value": 50
+    },
+    "snowHeight": {
+      "type": "Property",
+      "value": 20
+    },
+    "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  }null{
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+    "type": "WeatherObserved",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2016-11-30T07:00:00.00Z"
+      }
+    },
+    "illuminance": {
+      "type": "Property",
+      "value": 1000
+    },
+    "temperature": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "precipitation": {
+      "type": "Property",
+      "value": 0
+    },
+    "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+    },
+    "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+    },
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+    },
+    "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+    },
+    "windSpeed": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -4.754444444,
+          41.640833333
+        ]
+      }
+    },
+    "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+    },
+    "address": {
+      "type": "Property",
+      "value": {
+        "addressLocality": "Valladolid",
+        "addressCountry": "ES",
+        "type": "PostalAddress"
+      }
+    },
+    "stationCode": {
+      "type": "Property",
+      "value": "2422"
+    },
+    "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+    },
+    "windDirection": {
+      "type": "Property",
+      "value": -45
+    },
+    "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+    },
+    "streamGauge": {
+      "type": "Property",
+      "value": 50
+    },
+    "snowHeight": {
+      "type": "Property",
+      "value": 20
+    },
+    "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  }{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+    "type": "WeatherObserved",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2016-11-30T07:00:00.00Z"
+      }
+    },
+    "illuminance": {
+      "type": "Property",
+      "value": 1000
+    },
+    "temperature": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "precipitation": {
+      "type": "Property",
+      "value": 0
+    },
+    "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+    },
+    "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+    },
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+    },
+    "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+    },
+    "windSpeed": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -4.754444444,
+          41.640833333
+        ]
+      }
+    },
+    "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+    },
+    "address": {
+      "type": "Property",
+      "value": {
+        "addressLocality": "Valladolid",
+        "addressCountry": "ES",
+        "type": "PostalAddress"
+      }
+    },
+    "stationCode": {
+      "type": "Property",
+      "value": "2422"
+    },
+    "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+    },
+    "windDirection": {
+      "type": "Property",
+      "value": -45
+    },
+    "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+    },
+    "streamGauge": {
+      "type": "Property",
+      "value": 50
+    },
+    "snowHeight": {
+      "type": "Property",
+      "value": 20
+    },
+    "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  }{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+    "type": "WeatherObserved",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2016-11-30T07:00:00.00Z"
+      }
+    },
+    "illuminance": {
+      "type": "Property",
+      "value": 1000
+    },
+    "temperature": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "precipitation": {
+      "type": "Property",
+      "value": 0
+    },
+    "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+    },
+    "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+    },
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+    },
+    "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+    },
+    "windSpeed": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -4.754444444,
+          41.640833333
+        ]
+      }
+    },
+    "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+    },
+    "address": {
+      "type": "Property",
+      "value": {
+        "addressLocality": "Valladolid",
+        "addressCountry": "ES",
+        "type": "PostalAddress"
+      }
+    },
+    "stationCode": {
+      "type": "Property",
+      "value": "2422"
+    },
+    "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+    },
+    "windDirection": {
+      "type": "Property",
+      "value": -45
+    },
+    "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+    },
+    "streamGauge": {
+      "type": "Property",
+      "value": 50
+    },
+    "snowHeight": {
+      "type": "Property",
+      "value": 20
+    },
+    "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  }{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{
+    "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+    "type": "WeatherObserved",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2016-11-30T07:00:00.00Z"
+      }
+    },
+    "illuminance": {
+      "type": "Property",
+      "value": 1000
+    },
+    "temperature": {
+      "type": "Property",
+      "value": 3.3
+    },
+    "precipitation": {
+      "type": "Property",
+      "value": 0
+    },
+    "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+    },
+    "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+    },
+    "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+    },
+    "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+    },
+    "windSpeed": {
+      "type": "Property",
+      "value": 2
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          -4.754444444,
+          41.640833333
+        ]
+      }
+    },
+    "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+    },
+    "address": {
+      "type": "Property",
+      "value": {
+        "addressLocality": "Valladolid",
+        "addressCountry": "ES",
+        "type": "PostalAddress"
+      }
+    },
+    "stationCode": {
+      "type": "Property",
+      "value": "2422"
+    },
+    "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+    },
+    "windDirection": {
+      "type": "Property",
+      "value": -45
+    },
+    "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+    },
+    "streamGauge": {
+      "type": "Property",
+      "value": 50
+    },
+    "snowHeight": {
+      "type": "Property",
+      "value": 20
+    },
+    "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+    ]
+  }{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}[{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+},
+{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}
+]1000,3.3,0,938.9,0.5,2,-45,1,50,20
+1000,3.3,0,938.9,0.5,2,-45,1,50,20
+[{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+},
+{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}
+][{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+},
+{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}
+]dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "dateObserved" : "2016-11-30T07:00:00.00Z",
+  "illuminance" : 1000,
+  "temperature" : 3.3,
+  "precipitation" : 0,
+  "atmosphericPressure" : 938.9,
+  "pressureTendency" : 0.5,
+  "windSpeed" : 2,
+  "windDirection" : -45,
+  "relativeHumidity" : 1,
+  "streamGauge" : 50,
+  "snowHeight" : 20
+}nullnullnullnullnull{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+dateObserved
+,illuminance
+,temperature
+,precipitation
+,atmosphericPressure
+,pressureTendency
+,windSpeed
+,windDirection
+,relativeHumidity
+,streamGauge
+,snowHeightdateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+dateObserved
+,illuminance
+,temperature
+,precipitation
+,atmosphericPressure
+,pressureTendency
+,windSpeed
+,windDirection
+,relativeHumidity
+,streamGauge
+,snowHeight2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+-2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+-2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2017-11-30T07:00:00.00Z","illuminance":100,"temperature":2,"precipitation":5,"atmosphericPressure":888.9,"pressureTendency":0.6,"windSpeed":2,"windDirection":-34,"relativeHumidity":2,"streamGauge":60,"snowHeight":23}2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2017-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 100
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 2
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 5
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 888.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.6
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -34
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 2
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 60
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 23
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 1000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.3
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 0
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+{
+  "id": "urn:ngsi-ld:WeatherObserved:Spain-WeatherObserved-Valladolid-2016-11-30T07:00:00.00Z",
+  "type": "WeatherObserved",
+  "dateObserved": {
+      "type": "Property",
+      "value": {
+          "@type": "DateTime",
+          "@value": "2016-11-30T07:00:00.00Z"
+      }
+  },
+  "illuminance": {
+      "type": "Property",
+      "value": 4000
+  },
+  "temperature": {
+      "type": "Property",
+      "value": 3.7
+  },
+  "precipitation": {
+      "type": "Property",
+      "value": 3
+  },
+  "atmosphericPressure": {
+      "type": "Property",
+      "value": 938.9
+  },
+  "pressureTendency": {
+      "type": "Property",
+      "value": 0.5
+  },
+  "refDevice": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Device:device-0A3478"
+  },
+  "source": {
+      "type": "Property",
+      "value": "http://www.aemet.es"
+  },
+  "windSpeed": {
+      "type": "Property",
+      "value": 2
+  },
+  "location": {
+      "type": "GeoProperty",
+      "value": {
+          "type": "Point",
+          "coordinates": [
+              -4.754444444,
+              41.640833333
+          ]
+      }
+  },
+  "stationName": {
+      "type": "Property",
+      "value": "Valladolid"
+  },
+  "address": {
+      "type": "Property",
+      "value": {
+          "addressLocality": "Valladolid",
+          "addressCountry": "ES",
+          "type": "PostalAddress"
+      }
+  },
+  "stationCode": {
+      "type": "Property",
+      "value": "2422"
+  },
+  "dataProvider": {
+      "type": "Property",
+      "value": "TEF"
+  },
+  "windDirection": {
+      "type": "Property",
+      "value": -45
+  },
+  "relativeHumidity": {
+      "type": "Property",
+      "value": 1
+  },
+  "streamGauge": {
+      "type": "Property",
+      "value": 50
+  },
+  "snowHeight": {
+      "type": "Property",
+      "value": 20
+  },
+  "@context": [
+      "https://schema.lab.fiware.org/ld/context",
+      "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"
+  ]
+}
+
+
+
+
+{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":4000,"temperature":3.7,"precipitation":3,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}{"dateObserved":"2016-11-30T07:00:00.00Z","illuminance":1000,"temperature":3.3,"precipitation":0,"atmosphericPressure":938.9,"pressureTendency":0.5,"windSpeed":2,"windDirection":-45,"relativeHumidity":1,"streamGauge":50,"snowHeight":20}2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+dateObserved,illuminance,temperature,precipitation,atmosphericPressure,pressureTendency,windSpeed,windDirection,relativeHumidity,streamGauge,snowHeight
+2016-11-30T07:00:00.00Z,1000,3.3,0,938.9,0.5,2,-45,1,50,20
+2016-11-30T07:00:00.00Z,4000,3.7,3,938.9,0.5,2,-45,1,50,20
+2017-11-30T07:00:00.00Z,100,2.0,5,888.9,0.6,2,-34,2,60,23
