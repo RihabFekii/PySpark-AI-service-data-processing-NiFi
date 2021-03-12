@@ -5,5 +5,5 @@ This project demostrates in a first phase, how to collect data in real-time via 
 
 # General architecure 
 
-![AI service reference architecture](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/General%20architecture.png
+![AI service reference architecture](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/General%20architecture.png)
 
