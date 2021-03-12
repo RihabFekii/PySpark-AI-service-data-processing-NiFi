@@ -16,3 +16,5 @@ services:
             #- ./nifi/logs:/opt/nifi/nifi-current/logs
             - ./nifi/data:/opt//nifi/nifi-current/data
             - ./nifi/templates:/opt/nifi/conf/templates/
+
+    
