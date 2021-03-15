@@ -16,7 +16,7 @@ This project demostrates in a first phase, how to collect data in real-time via 
 
 ## Used technologies  
 
-- [Conext Broker](https://fiware-orion.readthedocs.io/en/master/): A FIWARE generic enbaler to manage context data in real time. 
+- [Conext Broker](https://fiware-orion.readthedocs.io/en/master/): A FIWARE generic enbaler to manage context data in real time. It allows you to manage the entire lifecycle of context information including updates, queries, registrations and subscriptions.
 
 - [DRACO](https://github.com/ging/fiware-draco): A FIWARE generic enabler for managing the history of context data. Internally, Draco is based on [Apache NiFi](https://nifi.apache.org/docs.html), NiFi is a dataflow system based on the concepts of flow-based programming. It supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. It was built to automate the flow of data between systems.
 
@@ -88,7 +88,7 @@ The cluster creation could done through Dataproc service GUI or from the cloud s
 In the cloud shell, run this gcloud command to create your cluster with all the necessary components to work with Jupyter on your cluster.
 
 ```shell
-gcloud beta dataproc clusters create ${CLUSTER_NAME} \
+$ gcloud beta dataproc clusters create ${CLUSTER_NAME} \
  --region=${REGION} \
  --image-version=1.4 \
  --master-machine-type=n1-standard-4 \
