@@ -5,7 +5,8 @@ This dataset will be in further steps used to train a machine learning model bas
 
 ## General architecture 
 
-![Nifi architecture](/Users/rihabfeki/Desktop/PySpark-AI-service_Data-processing-NiFi/Images/NiFi_architecture.png)
+![Nifi architecture](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/NiFi_architecture.png)
+
 
 
 
