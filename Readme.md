@@ -18,7 +18,7 @@ This project demostrates in a first phase, how to collect data in real-time via 
 
 - [Conext Broker](https://fiware-orion.readthedocs.io/en/master/): A FIWARE generic enbaler to manage context data in real time. 
 
-- [DRACO](https://github.com/ging/fiware-draco): An easy to use, powerful, and reliable system to process and distribute data. Internally, Draco is based on [Apache NiFi](https://nifi.apache.org/docs.html), NiFi is a dataflow system based on the concepts of flow-based programming. It supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. It was built to automate the flow of data between systems.
+- [DRACO](https://github.com/ging/fiware-draco): A FIWARE generic enabler for managing the history of context data. Internally, Draco is based on [Apache NiFi](https://nifi.apache.org/docs.html), NiFi is a dataflow system based on the concepts of flow-based programming. It supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. It was built to automate the flow of data between systems.
 
 - [Dataproc](https://cloud.google.com/dataproc) : A managed Spark and Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning.
 
