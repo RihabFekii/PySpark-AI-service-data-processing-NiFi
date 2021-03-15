@@ -54,12 +54,14 @@ Sign-in to Google Cloud Platform console at
 
 In the Cloud Shell run the following commands to enable the Dataproc service, Compute Engine and Storage APIs:
 
-``` gcloud config set project \<project_id\>
+```
+ gcloud config set project \<project_id\>
 ```
 
 Then 
 
-```gcloud services enable dataproc.googleapis.com \
+```
+gcloud services enable dataproc.googleapis.com \
   compute.googleapis.com \
   storage-component.googleapis.com
 ```
