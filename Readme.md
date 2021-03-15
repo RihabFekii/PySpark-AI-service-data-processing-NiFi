@@ -1,6 +1,6 @@
-# End-to-end AI Solution With PySpark & Real-time Data Processing With Apache NiFi
+# End-to-end AI solution with PySpark & real time data processing with Apache NiFi
 
-This project demostrates in a first phase, how to collect data in real-time via the [Conext Broker](https://fiware-orion.readthedocs.io/en/master/), transform it and persist it using [DRACO](https://github.com/ging/fiware-draco)(based on Apache NiFi). In a second phase, how to run Apache Spark and Jupyter Notebooks on a Google Cloud [Dataproc](https://cloud.google.com/dataproc) cluster. 
+This project demostrates in a first phase, how to collect data in real-time via the [FIWARE Context Broker](https://fiware-orion.readthedocs.io/en/master/), transform and persist it using [DRACO](https://github.com/ging/fiware-draco) (based on Apache NiFi). In a second phase, it shows how to run Apache Spark and Jupyter Notebooks on a Google Cloud [Dataproc](https://cloud.google.com/dataproc) cluster. 
 
 ## Agenda 
 
@@ -16,7 +16,7 @@ This project demostrates in a first phase, how to collect data in real-time via 
 
 ## Used technologies  
 
-- [Conext Broker](https://fiware-orion.readthedocs.io/en/master/): A FIWARE generic enbaler to manage context data in real time. It allows you to manage the entire lifecycle of context information including updates, queries, registrations and subscriptions.
+- [FIWARE Context Broker](https://fiware-orion.readthedocs.io/en/master/): A FIWARE generic enabler to manage context data in real time. It allows you to manage the entire lifecycle of context information including updates, queries, registrations and subscriptions.
 
 - [DRACO](https://github.com/ging/fiware-draco): A FIWARE generic enabler for managing the history of context data. Internally, Draco is based on [Apache NiFi](https://nifi.apache.org/docs.html), NiFi is a dataflow system based on the concepts of flow-based programming. It supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. It was built to automate the flow of data between systems.
 
@@ -30,8 +30,8 @@ This project demostrates in a first phase, how to collect data in real-time via 
 
 ## Setting up the Cloud environment
 
-As shown in the general architecture above, we are using Google Cloud Services (GCS). 
-The following steps demonstasrte how to set up the Cloud environemnt which is used within this project: 
+As shown in the general architecture above, this project uses Google Cloud Services (GCS). 
+The following steps demonstrates how to set up the Cloud environment which is used within this project: 
 
 -   Create a Google cloud project
 
