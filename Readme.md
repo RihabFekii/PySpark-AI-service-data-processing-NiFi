@@ -6,7 +6,7 @@ This project demostrates in a first phase, how to collect data in real-time via 
 
 - [General architecture](#general-architecure)
 - [Used technologies](#used-technologies)
-- [Setting up the Cloud environment]
+- [Setting up the Cloud environment](#setting-up-the-cloud-environment)
 
 
 
@@ -45,7 +45,7 @@ The following steps demonstasrte how to set up the Cloud environemnt which is us
 
 -   Running a Spark job and plotting the results.
 
-### Create a Google cloud project
+### Step 1: Create a Google cloud project
 
 Sign-in to Google Cloud Platform console at
 [console.cloud.google.com](http://console.cloud.google.com/) and create a new project:
@@ -55,7 +55,7 @@ Sign-in to Google Cloud Platform console at
 In the Cloud Shell run the following commands to enable the Dataproc service, Compute Engine and Storage APIs:
 
 ```shell
- $gcloud config set project <project_id>
+ $ gcloud config set project <project_id>
 ```
 
 Then 
@@ -66,7 +66,78 @@ $ gcloud services enable dataproc.googleapis.com \
   storage-component.googleapis.com
 ```
 
+#### Step 2 : Create a Google Cloud Storage bucket
 
+Create a Google Cloud Storage bucket in the region closest to your data
+and give it a unique name. This will be used for the Dataproc cluster.
+
+To do that we need to follow two steps :
+
+1.  Open the Cloud **Storage** browser in the Google Cloud Console.
+
+![bucket](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/image19.png)
+
+2.  Click **Create bucket** to open the bucket creation form.
+
+![bucket form](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/image26.png)
+
+#### Step 3 : Create your Dataproc Cluster with Jupyter & Component Gateway
+
+The cluster creation could done through Dataproc service GUI or from the cloud shell. 
+
+In the cloud shell, run this gcloud command to create your cluster with all the necessary components to work with Jupyter on your cluster.
+
+```shell
+gcloud beta dataproc clusters create ${CLUSTER_NAME} \
+ --region=${REGION} \
+ --image-version=1.4 \
+ --master-machine-type=n1-standard-4 \
+ --worker-machine-type=n1-standard-4 \
+ --bucket=${BUCKET_NAME} \
+ --optional-components=ANACONDA,JUPYTER \
+ --enable-component-gateway
+ ```
+
+PS:
+-   The machine types to use for your Dataproc cluster. You can see a list of available [machine types here](https://cloud.google.com/compute/docs/machine-types).
+
+-   By default, 1 master node and 2 worker nodes are created if you do
+not set the flag --num-workers
+
+It should take about 90 seconds to create your cluster and once it is
+ready you will be able to access your cluster from the [Dataproc Cloud
+console UI](https://console.cloud.google.com/dataproc/clusters).
+
+![cluster](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/image11.png)
+
+
+#### Step 4: Accessing the JupyterLab web interface
+
+Once the cluster is ready you can find the Component Gateway link to the
+JupyterLab web interface by going to [Dataproc Clusters - Cloud
+console](https://console.cloud.google.com/dataproc/clusters),
+clicking on the cluster you created and going to the Web Interfaces tab.
+
+![WebUI](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/image30.png)
+
+
+#### Step 5: Create a Python Notebook for the AI solution based on PySpark
+
+It is recommended to use "Python 3" notebooks because it has access to
+all the data science packages installed with Anaconda as well as PySpark
+and which also allows you to configure the SparkSession in the notebook
+and include other google cloud APIs(e.g [BigQuery Storage
+API](https://cloud.google.com/bigquery/docs/reference/storage) or
+other APIs)
+
+![python](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/image29.png)
+
+Before creating a new jupyter notebook we need to create a folder where
+it will be saved in our google cloud storage bucket under GCS(in this example)
+
+![](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/image23.png)
+
+More information about the AI solution are under the PySpark Folder. 
 
 
 
