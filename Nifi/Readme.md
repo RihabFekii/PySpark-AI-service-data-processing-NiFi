@@ -29,16 +29,16 @@ in NGSI-LD format to perform the transformation with Apache NiFi.
 
 verview about the steps and the function of each processor:
 
--   GetFile: Reads data in JSON-LD format
+-   **GetFile**: Reads data in JSON-LD format
 
--   JoltTransformJSON: Transforms nested JSON to a simple attribute value JSON file which will be used to form the csv file
+-   **JoltTransformJSON**: Transforms nested JSON to a simple attribute value JSON file which will be used to form the csv file
 
--   ConvertRecord: Converts each JSON file to a CSV file
+-   **ConvertRecord**: Converts each JSON file to a CSV file
 
--   MergeContent: merges the resulting CSV files to form a generic CSV
+-   **MergeContent**: merges the resulting CSV files to form a generic CSV
 (PS: we can set the min number of entries to perform the merge processor and also a max number of flow files can be set )
 
--   PutGCSObject to save the resulting CSV in Google cloud storage bucket
+-   **PutGCSObject** to save the resulting CSV in Google cloud storage bucket
 
 
 ## Detailed NiFi flow description
@@ -78,7 +78,7 @@ CSV in a later step.
 -  **Shift** ebales reading values or portions of the input JSON tree and
 adding them to specified locations in the output.
 
-The following is the configuration of the JoltTransformJSON processor:
+The following is the configuration of the `JoltTransformJSON` processor:
 
 ![jolt](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image5.png)
 
@@ -89,9 +89,9 @@ to ConvertRecord.
 
 The following steps are:
 
--   Configure ConvertRecord and set \'Record Reader\' to use JsonTreeReader controller service and \'Record Writer\' to use CSVRecordSetWriter controller service
+-   Configure ConvertRecord and set `Record Reader` to use JsonTreeReader controller service and `Record Writer` to use CSVRecordSetWriter controller service
 
--   Configure both the controller services and set Schema Registry property to use AvroSchemaRegistry
+-   Configure both the controller services and set `Schema Registry` property to use `AvroSchemaRegistry`
 
 ![convert_record](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image2.png)
 
@@ -106,16 +106,16 @@ correct, check the following [Avro Schema From JSON Generator](https://toolslick
 
 Follow the following steps to configure this processor:
 
--   Configure AvroSchemaRegistry. Go to the \'Properties\' tab and click the + button which lets you add a dynamic property.
+-   Configure AvroSchemaRegistry. Go to the `Properties` tab and click the + button which lets you add a dynamic property.
 
--   Give some property name (ex: weather) and for the value, give the Avro schema expected for your JSON input.
+-   Give some property name (ex: `weather`) and for the value, give the Avro schema expected for your JSON input.
 
 ![Avro](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image10.png)
 
 
-Configure both JsonTreeReader and CsvRecordSetWriter and set the
-\'Schema Name\' property to the name provided above, in this case,
-weather.
+Configure both `JsonTreeReader` and `CsvRecordSetWriter` and set the
+`Schema Name` property to the name provided above, in this case,
+`weather`.
 
 **CsvRecordSetWriter**
 
@@ -195,3 +195,5 @@ processor GCPCredentialsControllerService under the property **Service Account J
 
 ![GCS](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image14.png)
 
+
+The previous processors can be reused and the output processor(e.g `PutGCSObject`) can be changed with other processors to put object to AWS or to save the output dataset lacally etc,..
