@@ -9,6 +9,7 @@ This dataset will be in further steps used to train a machine learning model bas
 - [General architecture](#general-architecure)
 - [NiFi flow](#nifi-flow)
 - [Detailed NiFi flow description](#detailed-nifi-flow-description)
+- [Further information](further-information)
 
 ## About Apache NiFi
 
@@ -18,8 +19,8 @@ Apache NiFi is being used by many companies and organizations to power their dat
 
 ![Nifi architecture](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/NiFi_architecture.png)
 
-PS: In this example we used the following [data model of Weather
-Observed](https://github.com/FIWARE/data-models/blob/master/specs/Weather/WeatherObserved/example-normalized-ld.jsonld)
+PS: In this example the following [data model of Weather
+Observed] was used (https://github.com/FIWARE/data-models/blob/master/specs/Weather/WeatherObserved/example-normalized-ld.jsonld)
 in NGSI-LD format to perform the transformation with Apache NiFi.
 
 
@@ -35,10 +36,10 @@ verview about the steps and the function of each processor:
 
 -   **ConvertRecord**: Converts each JSON file to a CSV file
 
--   **MergeContent**: merges the resulting CSV files to form a generic CSV
-(PS: we can set the min number of entries to perform the merge processor and also a max number of flow files can be set )
+-   **MergeContent**: Merges the resulting CSV files to form a generic CSV
+(PS: The min number of entries can be set to perform the merge processor. Also a max number of flow files can be set)
 
--   **PutGCSObject** to save the resulting CSV in Google cloud storage bucket
+-   **PutGCSObject**: Saves the resulting CSV in Google Cloud Storage bucket
 
 
 ## Detailed NiFi flow description
@@ -53,8 +54,7 @@ verview about the steps and the function of each processor:
 ### JoltTransformJSON processor
 
 
-[JoltTransformJSON](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.5.0/org.apache.nifi.processors.standard.JoltTransformJSON/)
-applies a list of Jolt specifications to the flowfile JSON payload.
+`JoltTransformJSON` applies a list of Jolt specifications to the flowfile JSON payload.
 
 A new JSON FlowFile is created with transformed content.
 
@@ -71,7 +71,7 @@ remove
 
 -  **spec** (JSON): A set of key/value pairs of the form {"input-side search": "output-side transformation"}.
 
-In our case we will use Shift operation to transform our nested JSON-LD
+In this project the Shift operation was used to transform the nested JSON-LD
 in the way which gives a simple key value JSON file to be converted to
 CSV in a later step.
 
@@ -89,7 +89,7 @@ to ConvertRecord.
 
 The following steps are:
 
--   Configure ConvertRecord and set `Record Reader` to use JsonTreeReader controller service and `Record Writer` to use CSVRecordSetWriter controller service
+-   Configure ConvertRecord and set `Record Reader` to use `JsonTreeReader` controller service and `Record Writer` to use `CSVRecordSetWriter` controller service
 
 -   Configure both the controller services and set `Schema Registry` property to use `AvroSchemaRegistry`
 
@@ -97,11 +97,15 @@ The following steps are:
 
 **JsonTreeReader**
 
+The `JsonTreeReader` Controller Service reads a JSON Object and creates a Record object for the entire JSON Object tree. The Controller Service must be configured with a Schema that describes the structure of the JSON data. If any field exists in the JSON that is not in the schema, that field will be skipped. If the schema contains a field for which no JSON field exists, a null value will be used in the Record (or the default value defined in the schema, if applicable).
+
 ![JsonReader](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image4.png)
 
 **AvroSchemaRegistry**
 
-To create the Avro Schema from our data model and verify that it is
+Provides a service for registering and accessing schemas. You can register a schema as a dynamic property where 'name' represents the schema name and 'value' represents the textual representation of the actual schema following the syntax and semantics of Avro's Schema format.
+
+To create the Avro Schema from the data model and verify that it is
 correct, check the following [Avro Schema From JSON Generator](https://toolslick.com/generation/metadata/avro-schema-from-json)
 
 Follow the following steps to configure this processor:
@@ -119,12 +123,13 @@ Configure both `JsonTreeReader` and `CsvRecordSetWriter` and set the
 
 **CsvRecordSetWriter**
 
+The `CsvRecordSetWriter` Controller Service writes the contents of a RecordSet (ouptput of `JsonTreeReader`) as CSV data. The first line written will be the column names (unless the 'Include Header Line' property is false). All subsequent lines will be the values corresponding to the record fields.
+
 ![CSV_writer](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image6.png)
 
-### Merge content processor
+### MergeContent 
 
-The reason to use the merge [content processor](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.6.0/org.apache.nifi.processors.standard.MergeContent/index.html)
-is to merge the incoming flow files in CSV format into one CSV
+The reason to use the `MergeContent` processor is to merge the incoming flow files in CSV format into one CSV.
 
 ![Merge](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image8.png)
 
@@ -137,8 +142,7 @@ Define a header to the resulting CSV file and reconfigure the
 
 ### PutGCSObject
 
-[PutGCSObject](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-gcp-nar/1.10.0/org.apache.nifi.processors.gcp.storage.PutGCSObject/index.html)
-enables putting flow files to a Google Cloud Bucket.
+`PutGCSObject` enables putting flow files to a Google Cloud Bucket.
 
 The following configuration of the processor have to be set
 
@@ -197,3 +201,30 @@ processor GCPCredentialsControllerService under the property **Service Account J
 
 
 The previous processors can be reused and the output processor(e.g `PutGCSObject`) can be changed with other processors to put object to AWS or to save the output dataset lacally etc,..
+
+## Further information
+
+The follwing is the list of the Apache NiFi processors and controller services used within this project: 
+
+- [GetFile](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.5.0/org.apache.nifi.processors.standard.GetFile/index.html)
+- [JoltTransformJSON](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.5.0/org.apache.nifi.processors.standard.JoltTransformJSON/)
+- [ConvertRecord](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.5.0/org.apache.nifi.processors.standard.ConvertRecord/index.html)
+- [MergeContent](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.6.0/org.apache.nifi.processors.standard.MergeContent/index.html)
+- [PutGCSObject](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-gcp-nar/1.10.0/org.apache.nifi.processors.gcp.storage.PutGCSObject/index.html)
+
+
+The follwing is the list of the Apache NiFi processors and controller services used within this project: 
+
+- [AvroSchemaRegistry](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-registry-nar/1.12.1/org.apache.nifi.schemaregistry.services.AvroSchemaRegistry/index.html)
+- [JsonTreeReader](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-record-serialization-services-nar/1.5.0/org.apache.nifi.json.JsonTreeReader/index.html)
+- [CsvRecordSetWriter](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-record-serialization-services-nar/1.5.0/org.apache.nifi.csv.CSVRecordSetWriter/index.html)
+
+The following testing tool was used to create the Avro schema for the data model in JSON format:
+- [Avro Schema From JSON Generator](https://toolslick.com/generation/metadata/avro-schema-from-json) 
+The following testing tool was used to create the Jolt transfomation: 
+- [Jolt Transform Demo](https://jolt-demo.appspot.com/#inception)
+All Jolt transformation operations are covered in this [article](https://community.cloudera.com/t5/Community-Articles/Jolt-quick-reference-for-Nifi-Jolt-Processors/ta-p/244350) 
+
+
+
+
