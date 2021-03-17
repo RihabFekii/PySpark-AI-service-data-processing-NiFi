@@ -218,11 +218,14 @@ The follwing is the list of the Apache NiFi processors and controller services u
 - [AvroSchemaRegistry](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-registry-nar/1.12.1/org.apache.nifi.schemaregistry.services.AvroSchemaRegistry/index.html)
 - [JsonTreeReader](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-record-serialization-services-nar/1.5.0/org.apache.nifi.json.JsonTreeReader/index.html)
 - [CsvRecordSetWriter](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-record-serialization-services-nar/1.5.0/org.apache.nifi.csv.CSVRecordSetWriter/index.html)
+- [GCPCredentialsControllerService](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-gcp-nar/1.5.0/org.apache.nifi.processors.gcp.credentials.service.GCPCredentialsControllerService/)
 
 The following testing tool was used to create the Avro schema for the data model in JSON format:
-- [Avro Schema From JSON Generator](https://toolslick.com/generation/metadata/avro-schema-from-json) 
+- [Avro Schema From JSON Generator](https://toolslick.com/generation/metadata/avro-schema-from-json)
+
 The following testing tool was used to create the Jolt transfomation: 
 - [Jolt Transform Demo](https://jolt-demo.appspot.com/#inception)
+
 All Jolt transformation operations are covered in this [article](https://community.cloudera.com/t5/Community-Articles/Jolt-quick-reference-for-Nifi-Jolt-Processors/ta-p/244350) 
 
 
