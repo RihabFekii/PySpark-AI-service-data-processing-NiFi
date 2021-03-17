@@ -2,7 +2,6 @@
 
 This project demostrates in a first phase, how to collect data in real-time via the [NGSI-LD Context Broker](https://fiware-orion.readthedocs.io/en/master/), transform and persist it using [DRACO](https://github.com/ging/fiware-draco) (based on Apache NiFi). In a second phase, it shows how to run Apache Spark and Jupyter Notebooks on a Google Cloud [Dataproc](https://cloud.google.com/dataproc) cluster. 
 
-
 Further information about [NiFi](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/tree/master/Nifi) and [PySpark](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/tree/master/PySpark) configuration can be found within their respective folders. 
 
 ## Agenda 
@@ -10,7 +9,6 @@ Further information about [NiFi](https://github.com/RihabFekii/PySpark-AI-servic
 - [General architecture](#general-architecure)
 - [Used technologies](#used-technologies)
 - [Setting up the Cloud environment](#setting-up-the-cloud-environment)
-
 
 ## General architecture 
 
@@ -141,6 +139,8 @@ it will be saved in our google cloud storage bucket under GCS(in this example)
 
 
 
+
+More information about the AI solution modeling and the dataset are found under the [PySpark](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/tree/master/PySpark) folder. 
 
 
 
