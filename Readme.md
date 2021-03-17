@@ -1,6 +1,9 @@
 # End-to-end AI solution with PySpark & real time data processing with Apache NiFi
 
-This project demostrates in a first phase, how to collect data in real-time via the [FIWARE Context Broker](https://fiware-orion.readthedocs.io/en/master/), transform and persist it using [DRACO](https://github.com/ging/fiware-draco) (based on Apache NiFi). In a second phase, it shows how to run Apache Spark and Jupyter Notebooks on a Google Cloud [Dataproc](https://cloud.google.com/dataproc) cluster. 
+This project demostrates in a first phase, how to collect data in real-time via the [NGSI-LD Context Broker](https://fiware-orion.readthedocs.io/en/master/), transform and persist it using [DRACO](https://github.com/ging/fiware-draco) (based on Apache NiFi). In a second phase, it shows how to run Apache Spark and Jupyter Notebooks on a Google Cloud [Dataproc](https://cloud.google.com/dataproc) cluster. 
+
+
+Further information about [NiFi](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/tree/master/Nifi) and [PySpark](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/tree/master/PySpark) configuration can be found within their respective folders. 
 
 ## Agenda 
 
@@ -9,14 +12,13 @@ This project demostrates in a first phase, how to collect data in real-time via 
 - [Setting up the Cloud environment](#setting-up-the-cloud-environment)
 
 
-
-## General architecure 
+## General architecture 
 
 ![AI service reference architecture](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/General%20architecture.png)
 
 ## Used technologies  
 
-- [FIWARE Context Broker](https://fiware-orion.readthedocs.io/en/master/): A FIWARE generic enabler to manage context data in real time. It allows you to manage the entire lifecycle of context information including updates, queries, registrations and subscriptions.
+- [NGSI-LD Context Broker](https://github.com/FIWARE/context.Orion-LD): A FIWARE generic enabler to manage context data in real time. It allows you to manage the entire lifecycle of context information including updates, queries, registrations and subscriptions.
 
 - [DRACO](https://github.com/ging/fiware-draco): A FIWARE generic enabler for managing the history of context data. Internally, Draco is based on [Apache NiFi](https://nifi.apache.org/docs.html), NiFi is a dataflow system based on the concepts of flow-based programming. It supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. It was built to automate the flow of data between systems.
 
@@ -137,7 +139,8 @@ it will be saved in our google cloud storage bucket under GCS(in this example)
 
 ![](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Images/image23.png)
 
-More information about the AI solution are under the PySpark Folder. 
+
+
 
 
 
