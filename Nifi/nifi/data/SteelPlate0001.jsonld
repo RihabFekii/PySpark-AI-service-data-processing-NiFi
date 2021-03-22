@@ -1,0 +1,125 @@
+{
+    "id": "urn:ngsi-ld:SteelPlate:0001:SteelFactory-2021-02-30T07:00:00.00Z",
+    "type": "SteelPlateMeasurement",
+    "dateMeasured": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2021-02-30T07:00:00.00Z"
+        }
+    },
+
+    "X_Minimum": {
+        "type": "property",
+        "value": 42
+    },
+    "X_Maximum": {
+        "type": "property",
+        "value": 50
+    },
+    "Y_Minimum": {
+        "type": "property",
+        "value": 270900
+    },
+    "Y_Maximum": {
+        "type": "property",
+        "value": 270944
+    },
+    "Pixels_Area": {
+        "type": "property",
+        "value": 267
+    },
+    "X_Perimeter": {
+        "type": "property",
+        "value": 17
+    },
+    "Y_Perimeter": {
+        "type": "property",
+        "value": 44
+    },
+    "Sum_Luminosity": {
+        "type": "property",
+        "value": 24220
+    },
+    "Min_Luminosity": {
+        "type": "property",
+        "value": 76
+    },
+    "Max_Luminosity": {
+        "type": "property",
+        "value": 108
+    },
+    "Length_Conveyer": {
+        "type": "property",
+        "value": 1687
+    },
+    "TypeSteel_A300": {
+        "type": "property",
+        "value": 1
+    },
+    "TypeSteel_A400": {
+        "type": "property",
+        "value": 0
+    },
+    "SteelPlate_Thickness": {
+        "type": "property",
+        "value": 80
+    },
+    "Edges_Index": {
+        "type": "property",
+        "value": 0.0498
+    },
+    "Empty_Index": {
+        "type": "property",
+        "value": 0.2415
+    },
+    "Square_Index": {
+        "type": "property",
+        "value": 0.1818
+    },
+    "Outside_X_Index": {
+        "type": "property",
+        "value": 0.0047
+    },
+    "Edges_X_Index": {
+        "type": "property",
+        "value": 0.4706
+    },
+    "Edges_Y_Index": {
+        "type": "property",
+        "value": 1.0
+    },
+    "Outside_GlobalIndex": {
+        "type": "property",
+        "value": 1.0
+    },
+    "LogOfAreas": {
+        "type": "property",
+        "value": 2.4265
+    },
+    "LogX_Index": {
+        "type": "property",
+        "value": 0.9031
+    },
+    "LogY_Index": {
+        "type": "property",
+        "value": 1.6435
+    },
+    "Orientation_Index": {
+        "type": "property",
+        "value": 0.8182
+    },
+    "Luminosity_Index": {
+        "type": "property",
+        "value": -0.2913
+    },
+    "Sigmoid_Areas": {
+        "type": "property",
+        "value": 0.5822
+    },
+    "Target": {
+        "type": "property",
+        "value": "Pastry"
+    }
+    
+}

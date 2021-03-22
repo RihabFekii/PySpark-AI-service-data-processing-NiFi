@@ -1,0 +1,125 @@
+{
+    "id": "urn:ngsi-ld:SteelPlate:0001:SteelFactory-2021-02-30T07:00:00.00Z",
+    "type": "SteelPlateMeasurement",
+    "dateMeasured": {
+        "type": "Property",
+        "value": {
+            "@type": "DateTime",
+            "@value": "2021-02-30T07:00:00.00Z"
+        }
+    },
+
+    "X_Minimum": {
+        "type": "property",
+        "value": 176
+    },
+    "X_Maximum": {
+        "type": "property",
+        "value": 193
+    },
+    "Y_Minimum": {
+        "type": "property",
+        "value": 1048818
+    },
+    "Y_Maximum": {
+        "type": "property",
+        "value": 1048832
+    },
+    "Pixels_Area": {
+        "type": "property",
+        "value": 138
+    },
+    "X_Perimeter": {
+        "type": "property",
+        "value": 30
+    },
+    "Y_Perimeter": {
+        "type": "property",
+        "value": 16
+    },
+    "Sum_Luminosity": {
+        "type": "property",
+        "value": 17295
+    },
+    "Min_Luminosity": {
+        "type": "property",
+        "value": 114
+    },
+    "Max_Luminosity": {
+        "type": "property",
+        "value": 141
+    },
+    "Length_Conveyer": {
+        "type": "property",
+        "value": 1356
+    },
+    "TypeSteel_A300": {
+        "type": "property",
+        "value": 1
+    },
+    "TypeSteel_A400": {
+        "type": "property",
+        "value": 0
+    },
+    "SteelPlate_Thickness": {
+        "type": "property",
+        "value": 70
+    },
+    "Edges_Index": {
+        "type": "property",
+        "value": 0.0177
+    },
+    "Empty_Index": {
+        "type": "property",
+        "value": 0.395
+    },
+    "Square_Index": {
+        "type": "property",
+        "value": 0.2643
+    },
+    "Outside_X_Index": {
+        "type": "property",
+        "value": 0.0053
+    },
+    "Edges_X_Index": {
+        "type": "property",
+        "value": 0.4706
+    },
+    "Edges_Y_Index": {
+        "type": "property",
+        "value": 1.0
+    },
+    "Outside_GlobalIndex": {
+        "type": "property",
+        "value": 1.0
+    },
+    "LogOfAreas": {
+        "type": "property",
+        "value": 2.4265
+    },
+    "LogX_Index": {
+        "type": "property",
+        "value": 0.9031
+    },
+    "LogY_Index": {
+        "type": "property",
+        "value": 1.6435
+    },
+    "Orientation_Index": {
+        "type": "property",
+        "value": 0.8182
+    },
+    "Luminosity_Index": {
+        "type": "property",
+        "value": -0.1447
+    },
+    "Sigmoid_Areas": {
+        "type": "property",
+        "value": 0.2532
+    },
+    "Target": {
+        "type": "property",
+        "value": "Z-Scratch"
+    }
+    
+}
