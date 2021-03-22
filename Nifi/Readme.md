@@ -1,6 +1,9 @@
 # Data transformation and persistence with Apache NiFi 
 
-This part of the project demostrates how to transform data in NGSI-LD fomat to CSV and save the collected CSV dataset in Google cloud storage (GCS) service. 
+This part of the project demostrates how to:
+
+- subscribe to changes of a data set in the Orion Context Broker to get a notification and an updated dataset with every change
+- transform data in NGSI-LD format to CSV and save the collected CSV dataset in Google cloud storage (GCS) service. 
 
 This dataset will be in further steps used to train a machine learning model based on PySpark. 
 
@@ -19,18 +22,20 @@ Apache NiFi is being used by many companies and organizations to power their dat
 
 ![Nifi architecture](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/NiFi_architecture.png)
 
-PS: In this example the following [data model of Weather
-Observed] was used (https://github.com/FIWARE/data-models/blob/master/specs/Weather/WeatherObserved/example-normalized-ld.jsonld)
-in NGSI-LD format to perform the transformation with Apache NiFi.
+PS: In this example, [data from a steel plate factory](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/tree/master/PySpark/dataset) was used to create a data model of steel sheets. For now, the data model is still in NGSI-v2 since it is not part of the [smart data models](https://smartdatamodels.org/) yet. You can view what the model looks like [here](https://github.com/FIWARE/data-models/blob/master/specs/Weather/WeatherObserved/steelplate_datamodel.json). 
+
+
 
 
 ## NiFi flow
 
 ![flow](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image13.png)
 
-verview about the steps and the function of each processor:
+Overview of the steps and the function of each processor:
 
--   **GetFile**: Reads data in JSON-LD format
+-   **GetFile** or **ListenHTTP**
+	- **GetFile**: Reads a local data file in JSON-LD format
+	- **ListenHTTP**: Listens for subscribed updates on a certain port
 
 -   **JoltTransformJSON**: Transforms nested JSON to a simple attribute value JSON file which will be used to form the csv file
 
@@ -42,16 +47,83 @@ verview about the steps and the function of each processor:
 -   **PutGCSObject**: Saves the resulting CSV in Google Cloud Storage bucket
 
 
-## Detailed NiFi flow description
+## Detailed NiFi flow and Context Broker description 
 
 
-### Get file processor : 
+
+### ListenHTTP processor: 
+
+The ListenHTTP processor listens for changes of of attributes of entities that a prescription has been created for. The following steps need to be carried out in order for this Processor to work.
+
+- The docker-compose.yml file has to include the Orion Context Broker which relies on Mongo DB and Nifi itself
+- In the docker-compose.yml file, a network needs to be created which connects these three containers
+- The desired entity is created in the terminal by posting it to the Context Broker as follows and you can add as many attributes as you wish to
+
+	curl -iX POST \
+	  'http://localhost:1026/v2/entities' \
+	  -H 'Content-Type: application/json' \
+	  -d '
+	{
+	    
+	    "id": "urn:ngsi-ld:SteelPlate:0001:SteelFactory-2021-02-30T07:00:00.00Z",
+	    "type": "SteelPlateMeasurement",
+	    "dateMeasured": {
+	        "type": "Property",
+	        "value": {
+	            "@type": "DateTime",
+	            "@value": "2021-02-30T07:00:00.00Z"
+	        }
+	    },
+
+	    "X_Minimum": {
+	        "type": "property",
+	        "value": 42
+	    }
+	}'
+
+- Afterwards, a subscription is created to any (one, several or all) attribute of the entity type you desire to receive updates on. The notification is sent to the port that Nifi is listening on, here port 5050. You can add as many attributes as needed seperated by comma in the attributes array.
+
+	curl -iX POST \
+	  --url 'http://localhost:1026/v2/subscriptions' \
+	  --header 'content-type: application/json' \
+	  --data '{
+	  "description": "Notify me of all temperature changes",
+	  "subject": {
+	    "entities": [{"idPattern": ".*", "type": "SteelPlateMeasurement"}],
+	    "condition": {
+	      "attrs": [ "Pixels_Area" ]
+	    }
+	  },
+	  "notification": {
+	    "http": {
+	      "url": "http://nifi:5050/v2/notify"
+	    }
+	  }
+	}'
+
+- In the processor's configuration in Nifi, the following fields have to be filled out as in the picture:
+
+![listenhttpconfig](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/listenhttpconfig.png)
+- Now you should be successfully subscribed and listening on any new changes that happen to that entity type. To make sure you are, induce any change to an attribtute you are subscribed to with the following command:
+
+	curl -L -X PATCH 'http://localhost:1026/v2/entities/urn:ngsi-ld:SteelPlate:0001:SteelFactory-2021-02-30T07:00:00.00Z/attrs' \
+	-H 'Content-Type: application/json' \
+	--data-raw ' {
+	      "X_Minimum":{"type":"Integer", "value": 43}
+	}'
+
+
+
+
+  
+
+### GetFile processor: 
 
 
 ![getfile](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image3.png)
 
 
-### JoltTransformJSON processor
+### JoltTransformJSON processor:
 
 
 `JoltTransformJSON` applies a list of Jolt specifications to the flowfile JSON payload.
@@ -75,7 +147,7 @@ In this project the Shift operation was used to transform the nested JSON-LD
 in the way which gives a simple key value JSON file to be converted to
 CSV in a later step.
 
--  **Shift** ebales reading values or portions of the input JSON tree and
+-  **Shift** enbales reading values or portions of the input JSON tree and
 adding them to specified locations in the output.
 
 The following is the configuration of the `JoltTransformJSON` processor:
@@ -127,7 +199,7 @@ The `CsvRecordSetWriter` Controller Service writes the contents of a RecordSet (
 
 ![CSV_writer](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image6.png)
 
-### MergeContent 
+### MergeContent processor:
 
 The reason to use the `MergeContent` processor is to merge the incoming flow files in CSV format into one CSV.
 
@@ -140,7 +212,7 @@ Define a header to the resulting CSV file and reconfigure the
 ![processor](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image7.png)
 
 
-### PutGCSObject
+### PutGCSObject processor:
 
 `PutGCSObject` enables putting flow files to a Google Cloud Bucket.
 
