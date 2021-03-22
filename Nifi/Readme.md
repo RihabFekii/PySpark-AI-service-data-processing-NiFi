@@ -49,8 +49,6 @@ Overview of the steps and the function of each processor:
 
 ## Detailed NiFi flow and Context Broker description 
 
-
-
 ### ListenHTTP processor: 
 
 The ListenHTTP processor listens for changes of of attributes of entities that a prescription has been created for. The following steps need to be carried out in order for this Processor to work.
@@ -58,13 +56,12 @@ The ListenHTTP processor listens for changes of of attributes of entities that a
 - The docker-compose.yml file has to include the Orion Context Broker which relies on Mongo DB and Nifi itself
 - In the docker-compose.yml file, a network needs to be created which connects these three containers
 - The desired entity is created in the terminal by posting it to the Context Broker as follows and you can add as many attributes as you wish to
-
+ ```
 	curl -iX POST \
-	  'http://localhost:1026/v2/entities' \
-	  -H 'Content-Type: application/json' \
-	  -d '
+	'http://localhost:1026/v2/entities' \
+	-H 'Content-Type: application/json' \
+	-d '
 	{
-	    
 	    "id": "urn:ngsi-ld:SteelPlate:0001:SteelFactory-2021-02-30T07:00:00.00Z",
 	    "type": "SteelPlateMeasurement",
 	    "dateMeasured": {
@@ -74,14 +71,14 @@ The ListenHTTP processor listens for changes of of attributes of entities that a
 	            "@value": "2021-02-30T07:00:00.00Z"
 	        }
 	    },
-
 	    "X_Minimum": {
 	        "type": "property",
 	        "value": 42
 	    }
 	}'
-
+ ```
 - Afterwards, a subscription is created to any (one, several or all) attribute of the entity type you desire to receive updates on. The notification is sent to the port that Nifi is listening on, here port 5050. You can add as many attributes as needed seperated by comma in the attributes array.
+ ```
 
 	curl -iX POST \
 	  --url 'http://localhost:1026/v2/subscriptions' \
@@ -100,22 +97,18 @@ The ListenHTTP processor listens for changes of of attributes of entities that a
 	    }
 	  }
 	}'
-
+ ```
 - In the processor's configuration in Nifi, the following fields have to be filled out as in the picture:
 
 ![listenhttpconfig](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/listenhttpconfig.png)
 - Now you should be successfully subscribed and listening on any new changes that happen to that entity type. To make sure you are, induce any change to an attribtute you are subscribed to with the following command:
-
+ ```
 	curl -L -X PATCH 'http://localhost:1026/v2/entities/urn:ngsi-ld:SteelPlate:0001:SteelFactory-2021-02-30T07:00:00.00Z/attrs' \
 	-H 'Content-Type: application/json' \
 	--data-raw ' {
 	      "X_Minimum":{"type":"Integer", "value": 43}
 	}'
-
-
-
-
-  
+   ```
 
 ### GetFile processor: 
 
