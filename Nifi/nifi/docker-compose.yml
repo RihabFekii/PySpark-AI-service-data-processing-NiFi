@@ -1,11 +1,14 @@
 version: "3"
 services: 
     nifi_docker:
-        image: apache/nifi:latest
+        image: apache/nifi:1.12.1
         restart: always
         container_name: nifi
         ports:
             - 8181:8181
+            - 5050:5050
+        networks: 
+            - general_nw
         environment:
             - NIFI_WEB_HTTP_PORT=8181
         volumes:
@@ -16,5 +19,34 @@ services:
             #- ./nifi/logs:/opt/nifi/nifi-current/logs
             - ./nifi/data:/opt//nifi/nifi-current/data
             - ./nifi/templates:/opt/nifi/conf/templates/
+    orion:
+        image: fiware/orion-ld
+        hostname: orion
+        container_name: fiware-orion
+        expose:
+            - "1026"
+        ports:
+            - "1026:1026"
+        networks: 
+            - general_nw
+        depends_on:
+            - mongo-db
+        command: -dbhost mongo-db -logLevel DEBUG
 
-    
+    mongo-db:
+        image: mongo:3.6
+        hostname: mongo-db
+        container_name: db-mongo
+        ports:
+            - "27017:27017" 
+        networks: 
+            - general_nw
+        command: --nojournal
+        volumes:
+            - mongo-db:/data
+networks:
+  general_nw:
+    driver: bridge
+
+volumes:
+  mongo-db: ~
