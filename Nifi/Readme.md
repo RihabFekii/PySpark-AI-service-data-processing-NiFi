@@ -22,7 +22,7 @@ Apache NiFi is being used by many companies and organizations to power their dat
 
 ![Nifi architecture](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/NiFi_architecture.png)
 
-PS: In this example, [data from a steel plate factory](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/tree/master/PySpark/dataset) was used to create a data model of steel sheets. For now, the data model is still in NGSI-v2 since it is not part of the [smart data models](https://smartdatamodels.org/) yet. You can view what the model looks like [here](https://github.com/FIWARE/data-models/blob/master/specs/Weather/WeatherObserved/steelplate_datamodel.json). 
+PS: In this example, [data from a steel plate factory](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/tree/master/PySpark/dataset) was used to create a data model of steel sheets. For now, the data model is still in NGSI-v2 since it is not part of the [smart data models](https://smartdatamodels.org/) yet. You can view what the model looks like [here](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/readme_listenhttp/Nifi/steelplate_datamodel.json). 
 
 
 
@@ -100,7 +100,7 @@ The ListenHTTP processor listens for changes of of attributes of entities that a
  ```
 - In the processor's configuration in Nifi, the following fields have to be filled out as in the picture:
 
-![listenhttpconfig](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/listenhttpconfig.png)
+![listenhttpconfig](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/readme_listenhttp/Nifi/Images/listenhttpconfig.png)
 - Now you should be successfully subscribed and listening on any new changes that happen to that entity type. To make sure you are, induce any change to an attribtute you are subscribed to with the following command:
  ```
 	curl -L -X PATCH 'http://localhost:1026/v2/entities/urn:ngsi-ld:SteelPlate:0001:SteelFactory-2021-02-30T07:00:00.00Z/attrs' \
