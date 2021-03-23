@@ -30,6 +30,8 @@ in NGSI-LD format to perform the transformation with Apache NiFi.
 
 verview about the steps and the function of each processor:
 
+-   **ListenHTTP**: configured as source for receiving notifications from Orion Context Broker
+
 -   **GetFile**: Reads data in JSON-LD format
 
 -   **JoltTransformJSON**: Transforms nested JSON to a simple attribute value JSON file which will be used to form the csv file
@@ -45,10 +47,16 @@ verview about the steps and the function of each processor:
 ## Detailed NiFi flow description
 
 
-### Get file processor : 
+### GetFile processor  
 
 
 ![getfile](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image3.png)
+
+### ListenHTTP
+
+The Listen HTTP processor starts an HTTP Server and listens on a given base path to transform incoming requests into FlowFiles. The default URI of the Service will be http://{hostname}:{port}/v2/notify. Only HEAD and POST requests are supported. GET, PUT, and DELETE will result in an error and the HTTP response status code 405. We use this NiFi native processor for receiving the HTTP notifications coming from NGSI-LD Context Broker.
+
+![getfile](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image15.png)
 
 
 ### JoltTransformJSON processor
@@ -207,6 +215,7 @@ The previous processors can be reused and the output processor(e.g `PutGCSObject
 The follwing is the list of the Apache NiFi processors and controller services used within this project: 
 
 - [GetFile](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.5.0/org.apache.nifi.processors.standard.GetFile/index.html)
+- [ListenHTTP](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.6.0/org.apache.nifi.processors.standard.ListenHTTP/)
 - [JoltTransformJSON](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.5.0/org.apache.nifi.processors.standard.JoltTransformJSON/)
 - [ConvertRecord](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.5.0/org.apache.nifi.processors.standard.ConvertRecord/index.html)
 - [MergeContent](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.6.0/org.apache.nifi.processors.standard.MergeContent/index.html)
