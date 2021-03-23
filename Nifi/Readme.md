@@ -28,7 +28,7 @@ in NGSI-LD format to perform the transformation with Apache NiFi.
 
 ![flow](https://github.com/RihabFekii/PySpark-AI-service_Data-processing-NiFi/blob/master/Nifi/Images/image13.png)
 
-verview about the steps and the function of each processor:
+Overview about the steps and the function of each processor:
 
 -   **ListenHTTP**: configured as source for receiving notifications from Orion Context Broker
 
